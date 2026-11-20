@@ -1,0 +1,36 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "Biomedical RDM Mini-course"
+  subtitle: "Quản lý dữ liệu nghiên cứu y sinh"
+  chapters:
+    - index.qmd
+    - course/syllabus.md
+    - course/module-0-intro/index.md
+    - part: "Các bài học"
+      chapters:
+        - course/module-1-dmp/index.md
+        - course/module-1-dmp/quiz.md
+        - course/module-2-collection/index.md
+        - course/module-2-collection/quiz.md
+        - course/module-3-standards/index.md
+        - course/module-3-standards/quiz.md
+        - course/module-4-quality/index.md
+        - course/module-4-quality/quiz.md
+        - course/module-5-fair/index.md
+        - course/module-5-fair/quiz.md
+        - course/module-6-privacy-ai/index.md
+        - course/module-6-privacy-ai/quiz.md
+    - course/final-quiz.md
+    - course/glossary.md
+    - ROADMAP.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: false
+
+lang: vi
