@@ -1,8 +1,10 @@
-## Bài 1 — Thiết kế nghiên cứu và Kế hoạch quản lý dữ liệu (DMP)
+# Bài 1 — Thiết kế nghiên cứu và Kế hoạch quản lý dữ liệu (DMP)
 
 **Mục tiêu:** viết được DMP 2 trang cho một nghiên cứu giả định; phân biệt được DMP, protocol và CRF.
 
-### Nội dung chính
+## Nội dung chính
+
+Lớp kiểm soát bảo mật, đạo đức và pháp lý áp dụng xuyên suốt mọi giai đoạn của vòng đời dữ liệu.
 
 Một nghiên cứu bắt đầu bằng câu hỏi lâm sàng, nhưng dữ liệu bắt đầu bằng **Data Management Plan (DMP)** — tài liệu mô tả dữ liệu nào sẽ thu thập, ở định dạng nào, lưu ở đâu, ai được truy cập, chia sẻ ra sao, và lưu bao lâu.
 

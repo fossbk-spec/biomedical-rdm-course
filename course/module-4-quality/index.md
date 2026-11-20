@@ -1,10 +1,12 @@
-## Bài 4 — Chất lượng dữ liệu, dữ liệu khuyết và tái lập
+# Bài 4 — Chất lượng dữ liệu, dữ liệu khuyết và tái lập
 
 **Mục tiêu:** đánh giá được chất lượng dữ liệu theo 5 chiều; xử lý đúng dữ liệu khuyết.
 
-### Nội dung chính
+## Nội dung chính
 
-Dữ liệu EHR tái sử dụng cho nghiên cứu thường bẩn theo những cách có hệ thống. Khung của Weiskopf & Weng (2013) đánh giá chất lượng theo 5 chiều: **completeness (đầy đủ), correctness (đúng), concordance (nhất quán giữa các nguồn), plausibility (hợp lý), currency (cập nhật)**. Khung hài hòa của Kahn và cộng sự (2016) bổ sung phân biệt **verification** (dữ liệu có đúng định dạng và quy tắc không) và **validation** (dữ liệu có đúng với thực tế không).
+Lớp kiểm soát bảo mật, đạo đức và pháp lý áp dụng xuyên suốt mọi giai đoạn của vòng đời dữ liệu.
+
+Dữ liệu EHR tái sử dụng cho nghiên cứu thường bẩn theo những cách có hệ thống. Khung của Weiskopf & Weng (2013) đánh giá chất lượng theo 5 chiều: **completeness (đầy đủ), correctness (đúng), concordance (nhất quán giữa các nguồn), plausibility (hợp lý), currency (cập nhật)**. Khung hài hòa của Kahn và cộng sự (2016) **[CẦN KIỂM CHỨNG thư mục]** bổ sung phân biệt **verification** (dữ liệu có đúng định dạng và quy tắc không) và **validation** (dữ liệu có đúng với thực tế không).
 
 Dữ liệu khuyết không phải một loại. Theo Rubin (1976):
 

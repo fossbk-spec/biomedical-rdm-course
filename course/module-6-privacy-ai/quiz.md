@@ -1,11 +1,11 @@
-### Quiz — Bài 6
+# Quiz — Bài 6
 
 **6.1. Theo GDPR, dữ liệu giả danh (pseudonymised) có còn là dữ liệu cá nhân không?**
-- A. Không, đã ẩn danh hoàn toàn.
-- B. Có — vẫn là dữ liệu cá nhân vì có thể tái định danh bằng khóa riêng.
+- A. Có — vẫn là dữ liệu cá nhân vì có thể tái định danh bằng khóa riêng.
+- B. Không, đã ẩn danh hoàn toàn.
 - C. Chỉ khi có tên.
 - D. Chỉ ở Việt Nam.
-- **Đáp án: B.**
+- **Đáp án: A.**
 
 **6.2. Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15 có hiệu lực khi nào?**
 - A. 01/01/2025.
@@ -16,16 +16,16 @@
 
 **6.3. l-Diversity ra đời để khắc phục điểm yếu nào của k-anonymity?**
 - A. k-Anonymity quá chậm.
-- B. k-Anonymity không bảo vệ được khi giá trị nhạy cảm trong một nhóm thiếu đa dạng (ví dụ: cả nhóm cùng một chẩn đoán).
-- C. k-Anonymity không dùng được cho dữ liệu lớn.
+- B. k-Anonymity không dùng được cho dữ liệu lớn.
+- C. k-Anonymity không bảo vệ được khi giá trị nhạy cảm trong một nhóm thiếu đa dạng (ví dụ: cả nhóm cùng một chẩn đoán).
 - D. k-Anonymity đã bị cấm.
-- **Đáp án: B.**
+- **Đáp án: C.**
 
 **6.4. Tình huống:** Một nhóm muốn huấn luyện AI trên dữ liệu EHR nhưng không có ghi chép nào về nguồn gốc, phiên bản và quy trình làm sạch dữ liệu. Vấn đề lớn nhất là gì?
 - A. Thiếu dữ liệu.
-- B. Thiếu Deep Provenance — không giải trình được mô hình, không tái lập được, và có thể vi phạm yêu cầu quản trị.
-- C. Thiếu máy tính mạnh.
-- D. Không có vấn đề gì.
-- **Đáp án: B.**
+- B. Thiếu máy tính mạnh.
+- C. Không có vấn đề gì.
+- D. Thiếu Deep Provenance — không giải trình được mô hình, không tái lập được, và có thể vi phạm yêu cầu quản trị.
+- **Đáp án: D.**
 
 ---

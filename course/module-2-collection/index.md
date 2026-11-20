@@ -1,8 +1,10 @@
-## Bài 2 — Thu thập dữ liệu: ALCOA+, GCP và EDC
+# Bài 2 — Thu thập dữ liệu: ALCOA+, GCP và EDC
 
 **Mục tiêu:** giải thích được ALCOA+; phân biệt được thu thập tốt và thu thập chỉ “đủ dùng”.
 
-### Nội dung chính
+## Nội dung chính
+
+Lớp kiểm soát bảo mật, đạo đức và pháp lý áp dụng xuyên suốt mọi giai đoạn của vòng đời dữ liệu.
 
 Dữ liệu nghiên cứu lâm sàng phải đáng tin trước tòa, trước hội đồng đạo đức và trước tạp chí. Khung cổ điển là **ALCOA** — Attributable (quy được cho ai), Legible (đọc được), Contemporaneous (ghi ngay lúc xảy ra), Original (bản gốc), Accurate (chính xác). **ALCOA+** thêm Complete (đầy đủ), Consistent (nhất quán), Enduring (bền vững), Available (truy xuất được). Một số hướng dẫn thêm Traceable (truy vết được) thành ALCOA++.
 

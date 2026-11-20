@@ -4,4 +4,4 @@
 - Video/script bài giảng — theo mẫu Coursera.
 - Bài tập peer review và capstone — viết DMP + kế hoạch FAIR cho một nghiên cứu giả định.
 - Chứng nhận hoàn thành và rubric chấm.
-- Cập nhật 9 mục [CẦN KIỂM CHỨNG] còn lại trong bản tổng hợp (danh sách tác giả Kahn 2016, DOI Sweeney 2002, v.v.) trước khi dùng làm tài liệu chính thức.
+- Cập nhật 12 mục [CẦN KIỂM CHỨNG] còn lại trong bản tổng hợp (xem citation-audit ở biomedical-rdm) trước khi dùng làm tài liệu chính thức.
