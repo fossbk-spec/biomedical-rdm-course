@@ -1,4 +1,4 @@
-# Bài 5 — FAIR, chia sẻ và kết thúc nghiên cứu
+# Bài 6 — FAIR, chia sẻ và kết thúc nghiên cứu
 
 **Mục tiêu:** áp dụng được 4 nguyên tắc FAIR; biết khi nào chia sẻ, khi nào đóng, và kết thúc nghiên cứu thế nào.
 

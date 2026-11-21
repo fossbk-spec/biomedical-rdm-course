@@ -27,5 +27,6 @@
 - C. Chỉ OMOP.
 - D. FHIR để trao đổi, OMOP để phân tích — dùng cả hai, mỗi chuẩn một vai trò.
 - **Đáp án: D.**
+- **Giải thích:** Cơ chế khuyết có thể liên quan đến mức độ bệnh; cần ghi giả định, chọn phương pháp phù hợp và kiểm tra độ nhạy.
 
 ---
