@@ -3,7 +3,9 @@ import DefaultTheme from 'vitepress/theme'
 import SiteFooter from './SiteFooter.vue'
 import Quiz from './Quiz.vue'
 import QuizResult from './QuizResult.vue'
+import Mermaid from './Mermaid.vue'
 import './quiz.css'
+import './mermaid.css'
 
 export default {
   extends: DefaultTheme,
@@ -12,5 +14,6 @@ export default {
   enhanceApp({ app }) {
     app.component('Quiz', Quiz)
     app.component('QuizResult', QuizResult)
+    app.component('Mermaid', Mermaid)
   },
 }

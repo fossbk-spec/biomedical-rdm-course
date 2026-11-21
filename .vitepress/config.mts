@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { quizPlugin } from './plugins/quiz.mts'
+import mathjax3 from 'markdown-it-mathjax3'
 
 export default defineConfig({
   title: 'Biomedical RDM Mini-course',
@@ -8,6 +9,24 @@ export default defineConfig({
   base: '/biomedical-rdm-course/',
   srcExclude: ['README.md', 'CONTRIBUTING.md', 'AGENTS.md', 'docs/**', 'node_modules/**'],
   vite: { plugins: [quizPlugin()] },
+  markdown: {
+    config: (md) => {
+      // Công thức LaTeX: $...$ và $$...$$ (MathJax, dựng sẵn khi build).
+      md.use(mathjax3)
+      // Sơ đồ Mermaid: thay khối mermaid bằng thành phần có phóng to, thu nhỏ, toàn màn hình, tab mới.
+      const fence = md.renderer.rules.fence!
+      md.renderer.rules.fence = (tokens, idx, options, env, self) => {
+        const token = tokens[idx]
+        if (token.info.trim() === 'mermaid') {
+          return `<Mermaid encoded="${encodeURIComponent(token.content)}" />\n`
+        }
+        return fence(tokens, idx, options, env, self)
+      }
+    },
+  },
+  vue: {
+    template: { compilerOptions: { isCustomElement: (tag) => tag.startsWith('mjx-') } },
+  },
   themeConfig: {
     search: { provider: 'local' },
     nav: [
