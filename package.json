@@ -1,0 +1,27 @@
+{
+  "name": "biomedical-rdm-course",
+  "version": "1.0.0",
+  "description": "Mini-course tiếng Việt về **Quản lý dữ liệu nghiên cứu y sinh**, dành cho sinh viên kỹ thuật y sinh, bác sĩ và nghiên cứu viên mới bắt đầu.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fossbk-spec/biomedical-rdm-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fossbk-spec/biomedical-rdm-course/issues"
+  },
+  "homepage": "https://github.com/fossbk-spec/biomedical-rdm-course#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

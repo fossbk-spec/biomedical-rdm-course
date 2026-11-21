@@ -4,3 +4,7 @@ _site/
 /.quarto/
 **/*.quarto_ipynb
 __pycache__/
+
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
