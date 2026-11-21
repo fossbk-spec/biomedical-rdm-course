@@ -12,6 +12,8 @@
     "url": "git+https://github.com/fossbk-spec/biomedical-rdm-course.git"
   },
   "devDependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^12.3.0",
     "vitepress": "^1.6.4"
   },
   "private": true

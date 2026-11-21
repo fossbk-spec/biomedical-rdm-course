@@ -72,8 +72,6 @@ def convert_text(text: str, source_rel: str, target_rel: str, ref_targets: dict[
     body = re.sub(r"\]\((\.\./(?:chapters|appendices|legal-verification)\.md)(#[^)]*)?\)",
                   lambda m: "](https://github.com/fossbk-spec/biomedical-rdm/blob/main/docs/"
                             + m.group(1).removeprefix("../") + (m.group(2) or "") + ")", body)
-    if "```mermaid" in body or "$" in body:
-        body = "> **Lưu ý hiển thị:** sơ đồ Mermaid và/hoặc công thức được giữ nguyên dạng mã vì VitePress hiện chưa cấu hình renderer tương ứng.\n\n" + body
     return GENERATED.format(source=source_rel) + front_matter + body.rstrip() + "\n"
 
 
