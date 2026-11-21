@@ -19,10 +19,10 @@ book:
         - course/module-3-standards/quiz.md
         - course/module-4-quality/index.md
         - course/module-4-quality/quiz.md
-        - course/module-5-fair/index.md
-        - course/module-5-fair/quiz.md
-        - course/module-6-privacy-ai/index.md
-        - course/module-6-privacy-ai/quiz.md
+        - course/module-5-privacy/index.md
+        - course/module-5-privacy/quiz.md
+        - course/module-6-fair-ai/index.md
+        - course/module-6-fair-ai/quiz.md
     - course/final-quiz.md
     - course/glossary.md
     - ROADMAP.md
