@@ -1,0 +1,18 @@
+{
+  "name": "biomedical-rdm-course",
+  "version": "1.0.0",
+  "description": "Biomedical RDM mini-course (VitePress prototype)",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fossbk-spec/biomedical-rdm-course.git"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "private": true
+}
