@@ -1,10 +1,12 @@
 import { defineConfig } from 'vitepress'
+import { quizPlugin } from './plugins/quiz.mts'
 
 export default defineConfig({
   title: 'Biomedical RDM Mini-course',
   description: 'Quản lý dữ liệu nghiên cứu y sinh',
   lang: 'vi',
   srcExclude: ['README.md', 'CONTRIBUTING.md', 'docs/**', 'node_modules/**'],
+  vite: { plugins: [quizPlugin()] },
   themeConfig: {
     search: { provider: 'local' },
     nav: [
