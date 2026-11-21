@@ -6,7 +6,7 @@ export default defineConfig({
   description: 'Quản lý dữ liệu nghiên cứu y sinh',
   lang: 'vi',
   base: '/biomedical-rdm-course/',
-  srcExclude: ['README.md', 'CONTRIBUTING.md', 'docs/**', 'node_modules/**'],
+  srcExclude: ['README.md', 'CONTRIBUTING.md', 'AGENTS.md', 'docs/**', 'node_modules/**'],
   vite: { plugins: [quizPlugin()] },
   themeConfig: {
     search: { provider: 'local' },
