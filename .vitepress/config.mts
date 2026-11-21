@@ -5,6 +5,7 @@ export default defineConfig({
   title: 'Biomedical RDM Mini-course',
   description: 'Quản lý dữ liệu nghiên cứu y sinh',
   lang: 'vi',
+  base: '/biomedical-rdm-course/',
   srcExclude: ['README.md', 'CONTRIBUTING.md', 'docs/**', 'node_modules/**'],
   vite: { plugins: [quizPlugin()] },
   themeConfig: {
