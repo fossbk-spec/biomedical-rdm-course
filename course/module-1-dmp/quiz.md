@@ -7,12 +7,12 @@
 - D. Hai tài liệu này là một.
 - **Đáp án: A.** Protocol trả lời câu hỏi nghiên cứu; DMP trả lời câu hỏi quản trị dữ liệu.
 
-**1.2. Theo NIH, DMSP có giới hạn nào?**
-- A. Không giới hạn độ dài.
-- B. Tối đa 2 trang, 6 thành phần.
-- C. Chỉ cần 1 trang, không cần kho lưu trữ.
-- D. Chỉ nộp sau khi nghiên cứu kết thúc.
-- **Đáp án: B.** Chính sách NIH có hiệu lực 25/01/2023; mẫu tinh giản 2026 giữ nguyên chính sách này.
+**1.2. Khi soạn DMSP, lựa chọn nào phù hợp với brief khóa học này?**
+- A. Dùng mẫu NIH hiện hành (7 yếu tố) hoặc Horizon Europe và kiểm tra yêu cầu cụ thể.
+- B. Luôn dùng một mẫu cũ có giới hạn trang cố định.
+- C. Chỉ cần nêu tên kho, không cần mô tả dữ liệu.
+- D. Chờ đến khi nghiên cứu kết thúc mới viết.
+- **Đáp án: A.** Mẫu và yêu cầu cụ thể cần được kiểm tra theo nhà tài trợ; phụ lục mẫu ghi trạng thái kiểm chứng.
 
 **1.3. Vì sao cần metadata?**
 - A. Để ép mọi biến trong dataset về cùng một kiểu dữ liệu.

@@ -1,5 +1,9 @@
 # Quyết định nội dung và phạm vi
 
+## Giáo trình đầy đủ (22/11/2026)
+
+Giáo trình đầy đủ được đồng bộ một chiều từ repo gốc qua `scripts/sync_manifest.json`; mini-course là bản ôn nhanh. Các trang trong `course/book/` là trang sinh, không sửa trực tiếp.
+
 Nguồn quyết định nội dung chính: `biomedical-rdm/docs/DECISIONS.md`. Repo này là bản web; các trang được lấy từ `biomedical-rdm/docs/course-source/rdm-mini-course-source.md` và đồng bộ bằng `scripts/sync_from_source.py`.
 
 Các quyết định riêng của khóa học được giữ ngắn tại đây:

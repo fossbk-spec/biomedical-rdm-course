@@ -1,4 +1,4 @@
-# Bài 6 — Bảo mật, pháp lý và dữ liệu sẵn sàng cho AI
+# Bài 5 — Bảo mật, pháp lý và dữ liệu sẵn sàng cho AI
 
 **Mục tiêu:** kể được các lớp pháp lý áp dụng ở Việt Nam và quốc tế; biết khi nào dữ liệu “đủ tốt cho AI”.
 

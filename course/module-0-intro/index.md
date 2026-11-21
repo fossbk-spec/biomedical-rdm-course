@@ -13,8 +13,8 @@
 
 ```
 1. Thiết kế & DMP → 2. Thu thập → 3. Làm sạch & kiểm tra
-→ 4. Chuẩn hóa (CDISC / FHIR / OMOP) → 5. FAIR & chia sẻ
-→ 6. Bảo mật & pháp lý → 7. Kết thúc: lưu trữ / hủy an toàn
+→ 4. Chuẩn hóa (CDISC / FHIR / OMOP) → 5. Bảo mật & khử định danh
+→ 6. FAIR & AI-ready → 7. Kết thúc: lưu trữ / hủy an toàn
 ```
 
 Quy tắc xuyên suốt: **quyết định càng sớm càng rẻ**. Một trường dữ liệu không định nghĩa ở bước 1 sẽ thành dữ liệu khuyết, không so sánh được, hoặc không dùng được cho AI ở bước 5–7. DMP không phải thủ tục hành chính — nó là bản hợp đồng về dữ liệu của cả nghiên cứu.
@@ -28,8 +28,8 @@ Quy tắc xuyên suốt: **quyết định càng sớm càng rẻ**. Một trư�
 | Làm sạch & kiểm tra | Xử lý và chuẩn hóa |
 | Chuẩn hóa | Xử lý và chuẩn hóa |
 | Phân tích | Bước 3–4: làm sạch, kiểm tra và chuẩn hóa để phân tích |
-| FAIR & chia sẻ | Chia sẻ và công bố |
-| Bảo mật & pháp lý | Áp dụng xuyên suốt |
+| Bảo mật & khử định danh | Áp dụng xuyên suốt |
+| FAIR & AI-ready | Chia sẻ, công bố và tái sử dụng |
 | Kết thúc: lưu trữ / hủy an toàn | Lưu trữ dài hạn hoặc tiêu hủy |
 
 ---

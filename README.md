@@ -4,9 +4,9 @@ Mini-course tiếng Việt về **Quản lý dữ liệu nghiên cứu y sinh**,
 
 ## Bản web và nguồn nội dung
 
-Đây là **bản web** của khóa học. Nguồn chân lý nằm trong repo [biomedical-rdm](https://github.com/fossbk-spec/biomedical-rdm), tại `docs/course-source/rdm-mini-course-source.md`; các trang trong `course/` được đồng bộ từ nguồn đó.
+Đây là **bản web** của khóa học. Nguồn chân lý nằm trong repo [biomedical-rdm](https://github.com/fossbk-spec/biomedical-rdm). Giáo trình đầy đủ trong `course/book/` được đồng bộ một chiều qua `scripts/sync_manifest.json`; các trang mini-course là bản ôn nhanh và được đồng bộ từ `docs/course-source/rdm-mini-course-source.md`.
 
-Để đồng bộ, chạy `python scripts/sync_from_source.py` từ repo này. Dùng `python scripts/sync_from_source.py --check` để kiểm tra mà không ghi file. Các quyết định nội dung được quản lý tại `biomedical-rdm/docs/DECISIONS.md`; xem [docs/DECISIONS.md](docs/DECISIONS.md) cho các quyết định riêng còn giữ lại của khóa học.
+Để đồng bộ, chạy `python scripts/sync_from_source.py` từ repo này. Dùng `python scripts/sync_from_source.py --check` để kiểm tra mà không ghi file. Không sửa trực tiếp các trang sinh trong `course/`.
 
 ## Phạm vi phiên bản đầu
 

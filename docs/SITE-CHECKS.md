@@ -1,5 +1,9 @@
 # Kiểm tra site
 
+## Đồng bộ giáo trình đầy đủ
+
+`scripts/sync_manifest.json` ánh xạ syllabus, chương 0–7, chín phụ lục, sổ QA pháp lý và bibliography từ repo gốc sang `course/book/`. Chạy `python scripts/sync_from_source.py` để sinh, sau đó `python scripts/sync_from_source.py --check` để kiểm tra cả mini-course và giáo trình.
+
 Ngày kiểm tra: 21/11/2026
 
 ## Lệnh đã chạy và kết quả

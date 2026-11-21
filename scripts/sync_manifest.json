@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "description": "Canonical biomedical-rdm source files to generated VitePress textbook pages.",
+  "pages": [
+    {"source": "docs/syllabus/BIOMEDICAL_RDM_FREE_SELF_PACED_SYLLABUS.md", "target": "course/book/syllabus.md"},
+    {"source": "docs/chapters/ch00_getting_started.md", "target": "course/book/ch00.md"},
+    {"source": "docs/chapters/ch01_overview_and_dmp.md", "target": "course/book/ch01.md"},
+    {"source": "docs/chapters/ch02_collection_and_redcap.md", "target": "course/book/ch02.md"},
+    {"source": "docs/chapters/ch03_standards_cdisc_fhir_omop.md", "target": "course/book/ch03.md"},
+    {"source": "docs/chapters/ch04_quality_and_imputation.md", "target": "course/book/ch04.md"},
+    {"source": "docs/chapters/ch05_privacy_and_deidentification.md", "target": "course/book/ch05.md"},
+    {"source": "docs/chapters/ch06_fair_and_ai_ready.md", "target": "course/book/ch06.md"},
+    {"source": "docs/chapters/ch07_completion_and_capstone.md", "target": "course/book/ch07.md"},
+    {"source": "docs/appendices/appendices-CHANGELOG.md", "target": "course/book/appendices/changelog.md"},
+    {"source": "docs/appendices/fhir-omop-lab-notes.md", "target": "course/book/appendices/fhir-omop-lab-notes.md"},
+    {"source": "docs/appendices/funder-templates.md", "target": "course/book/appendices/funder-templates.md"},
+    {"source": "docs/appendices/legal.md", "target": "course/book/appendices/legal.md"},
+    {"source": "docs/appendices/privacy-lab-notes.md", "target": "course/book/appendices/privacy-lab-notes.md"},
+    {"source": "docs/appendices/quality-ai-lab-notes.md", "target": "course/book/appendices/quality-ai-lab-notes.md"},
+    {"source": "docs/appendices/redcap-lab-notes.md", "target": "course/book/appendices/redcap-lab-notes.md"},
+    {"source": "docs/appendices/retention.md", "target": "course/book/appendices/retention.md"},
+    {"source": "docs/appendices/standards.md", "target": "course/book/appendices/standards.md"},
+    {"source": "docs/legal-verification.md", "target": "course/book/appendices/legal-verification.md"},
+    {"source": "references/references.bib", "target": "course/book/references.md", "format": "bib"}
+  ]
+}

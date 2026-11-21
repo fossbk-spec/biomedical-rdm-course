@@ -1,6 +1,6 @@
 # Bài 1 — Thiết kế nghiên cứu và Kế hoạch quản lý dữ liệu (DMP)
 
-**Mục tiêu:** viết được DMP 2 trang cho một nghiên cứu giả định; phân biệt được DMP, protocol và CRF.
+**Mục tiêu:** viết được DMP theo mẫu NIH hiện hành (7 yếu tố) hoặc Horizon Europe cho một nghiên cứu giả định; phân biệt được DMP, protocol và CRF.
 
 ## Nội dung chính
 
@@ -8,7 +8,7 @@ Lớp kiểm soát bảo mật, đạo đức và pháp lý áp dụng xuyên su
 
 Một nghiên cứu bắt đầu bằng câu hỏi lâm sàng, nhưng dữ liệu bắt đầu bằng **Data Management Plan (DMP)** — tài liệu mô tả dữ liệu nào sẽ thu thập, ở định dạng nào, lưu ở đâu, ai được truy cập, chia sẻ ra sao, và lưu bao lâu.
 
-Nhà tài trợ lớn yêu cầu DMP từ lúc nộp hồ sơ. NIH yêu cầu **Data Management and Sharing Plan (DMSP) ≤ 2 trang, 6 thành phần**, chính sách có hiệu lực từ 25/01/2023; từ 25/02/2026, NIH ban hành mẫu tinh giản NOT-OD-26-046, bắt buộc với hồ sơ nộp từ 25/05/2026. Horizon Europe yêu cầu DMP đầy đủ chậm nhất vào tháng thứ 6 của dự án, theo nguyên tắc “mở tối đa có thể, đóng tối thiểu khi cần thiết”, dữ liệu mở theo CC BY/CC0.
+Nhà tài trợ lớn yêu cầu DMP từ lúc nộp hồ sơ. Khi soạn thảo, dùng **mẫu NIH hiện hành (7 yếu tố) hoặc Horizon Europe**; xem `../appendices/funder-templates.md` để biết phạm vi và trạng thái kiểm chứng. Horizon Europe nhấn mạnh nguyên tắc “mở tối đa có thể, đóng tối thiểu khi cần thiết”.
 
 Ba thứ thường bị nhầm với nhau:
 
