@@ -73,11 +73,12 @@ Khóa học lấy xương sống là **Workflow Quản trị Dữ liệu Y sinh 
 
 Khóa học không sử dụng thang điểm số, điểm chữ hay xếp loại học lực. Người học hoàn toàn làm chủ tiến trình tự đánh giá năng lực của mình theo quy tắc sau:
 
-### 4.1. Hệ thống 34 Câu hỏi Tự kiểm tra (Self-Check Quizzes)
-* **24 câu hỏi theo từng bài:** Quiz 4 câu theo bài nằm ở trang quiz của từng module trên site khóa học; việc đối chiếu và tích hợp vào từng chương trong repo gốc chưa hoàn tất (`CONTENT_PENDING`).
+### 4.1. Hệ thống Quiz Tự kiểm tra (Self-Check Quizzes)
+* **Quiz theo chương:** Mỗi chương có số câu theo nội dung của chương (N1+…+N6), tối đa một câu cho mỗi phần lý thuyết chính phù hợp.
 * **10 câu hỏi tổng hợp cuối khóa:** Kiểm tra khả năng kết nối toàn bộ workflow từ DMP đến lưu trữ và chia sẻ an toàn.
+* **Tổng số câu quiz:** **39 câu** = tổng số câu trong các chương (N1+…+N6 = 29) + 10 câu của Quiz Tổng hợp.
 * **Mục tiêu tự đánh giá khuyến nghị:**
-  $$\text{Mục tiêu tự đánh giá khuyến nghị:} \quad \text{Đúng} \ge 24/34 \text{ câu } \quad \text{và đúng} \ge 2/3 \text{ câu Q1–Q3 trong Quiz Tổng hợp};\ \text{không ai ghi lại kết quả.}$$
+  $$\text{Đúng} \ge 70\% \text{ tổng số câu } \quad \text{và đúng} \ge 2/3 \text{ câu Q1–Q3 trong Quiz Tổng hợp};\ \text{đây là tự đánh giá, không ai ghi lại kết quả; làm lại không giới hạn.}$$
   *(Ba câu Q1–Q3 kiểm tra mạch logic cốt lõi của quy trình 7 giai đoạn.)*
 
 ### 4.2. Thang Tự đối chiếu Bài thực hành (Self-Assessment Rubrics)
