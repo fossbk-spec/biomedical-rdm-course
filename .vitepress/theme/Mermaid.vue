@@ -27,6 +27,11 @@ function readWidth(markup: string): number {
   return w > 0 ? w : 800
 }
 
+// SVG labels do not interpret HTML; keep <br/> and drop other tags
+function stripHtml(s: string) {
+  return s.replace(/<(?!br\s*\/?>)\/?[a-zA-Z][^>]*>/g, '')
+}
+
 async function render() {
   try {
     const mermaid = (await import('mermaid')).default
@@ -46,7 +51,7 @@ async function render() {
       htmlLabels: false,
       flowchart: { htmlLabels: false, useMaxWidth: false, padding: 14, wrappingWidth: 360 },
     })
-    const out = await mermaid.render(`${uid}-${counter++}`, code.value)
+    const out = await mermaid.render(`${uid}-${counter++}`, stripHtml(code.value))
     svg.value = out.svg
     baseWidth.value = readWidth(out.svg)
     error.value = ''
