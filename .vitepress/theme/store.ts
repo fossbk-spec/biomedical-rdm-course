@@ -31,6 +31,6 @@ export const LESSONS = [
   'module-2-collection',
   'module-3-standards',
   'module-4-quality',
-  'module-5-fair',
-  'module-6-privacy-ai',
+  'module-5-privacy',
+  'module-6-fair-ai',
 ]
