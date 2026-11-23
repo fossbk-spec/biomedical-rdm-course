@@ -1,32 +1,31 @@
 # Quiz — Bài 3
 
 **3.1. CDISC SDTM dùng chủ yếu để làm gì?**
-- A. Chuẩn hóa dữ liệu thử nghiệm lâm sàng để nộp cho cơ quan quản lý.
-- B. Trao đổi dữ liệu giữa hai bệnh viện theo thời gian thực.
-- C. Phân tích quần thể trên nhiều cơ sở dữ liệu.
-- D. Lưu trữ ảnh y tế.
-- **Đáp án: A.**
+- A. Trao đổi dữ liệu lâm sàng giữa các hệ thống đang vận hành trong thực hành.
+- B. Phân tích quần thể từ dữ liệu quan sát của nhiều cơ sở khác nhau.
+- C. Chuẩn hóa dữ liệu thử nghiệm lâm sàng để nộp cho cơ quan quản lý.
+- D. Lưu trữ ảnh y tế cùng thông tin chẩn đoán của người bệnh.
+- **Đáp án: C.** SDTM tổ chức dữ liệu thử nghiệm lâm sàng theo cấu trúc phục vụ việc nộp hồ sơ.
 
-**3.2. FHIR R6 hiện tại ở trạng thái nào?**
-- A. Đã ban hành và thay thế R4.
-- B. Chưa ban hành, đang trong giai đoạn ballot.
-- C. Đã bị hủy.
-- D. Chỉ dùng ở Việt Nam.
-- **Đáp án: B.** R4 là bản thực hành, R5 ban hành 26/03/2023, R6 chưa có bản chính thức.
+**3.2. FHIR và OMOP có vai trò khác nhau thế nào?**
+- A. FHIR dùng để phân tích quần thể, còn OMOP dùng để trao đổi lâm sàng giữa các hệ thống.
+- B. FHIR và OMOP đều là mô hình phân tích nên có thể thay thế cho nhau trong một workflow.
+- C. FHIR dùng để nộp hồ sơ, còn OMOP dùng để ghi dữ liệu tại điểm chăm sóc trong bệnh viện.
+- D. FHIR hỗ trợ trao đổi lâm sàng, còn OMOP hỗ trợ chuẩn hóa và phân tích dữ liệu.
+- **Đáp án: D.** Hai chuẩn giải quyết hai nhu cầu khác nhau và có thể cùng xuất hiện trong một workflow.
 
 **3.3. OMOP CDM mạnh nhất ở việc nào?**
-- A. Ghi điện tâm đồ.
-- B. Thay thế hồ sơ giấy.
-- C. Phân tích quần thể trên dữ liệu quan sát từ nhiều nguồn khác nhau.
-- D. Nộp hồ sơ thuốc mới.
-- **Đáp án: C.**
+- A. Phân tích quần thể trên dữ liệu quan sát đã được chuẩn hóa từ nhiều nguồn.
+- B. Ghi nhận thông tin khám chữa bệnh trực tiếp giữa các bệnh viện.
+- C. Chuẩn bị hồ sơ thử nghiệm lâm sàng theo cấu trúc nộp cho cơ quan quản lý và đánh giá.
+- D. Lưu trữ hình ảnh y tế nguyên bản cùng toàn bộ tín hiệu máy đo.
+- **Đáp án: A.** OMOP tạo mô hình chung để các cơ sở có thể phân tích dữ liệu quan sát theo cách tương thích.
 
-**3.4. Tình huống:** Một bệnh viện muốn vừa chia sẻ dữ liệu khám chữa bệnh với bệnh viện khác, vừa phân tích xu hướng điều trị trên 5 năm. Cần chuẩn nào?
-- A. Không cần chuẩn nào.
-- B. Chỉ FHIR.
-- C. Chỉ OMOP.
-- D. FHIR để trao đổi, OMOP để phân tích — dùng cả hai, mỗi chuẩn một vai trò.
-- **Đáp án: D.**
-- **Giải thích:** Cơ chế khuyết có thể liên quan đến mức độ bệnh; cần ghi giả định, chọn phương pháp phù hợp và kiểm tra độ nhạy.
+**3.4. Tình huống:** Một bệnh viện muốn trao đổi dữ liệu với nơi khác và phân tích xu hướng điều trị. Cách chọn chuẩn phù hợp là gì?
+- A. Dùng CDISC cho trao đổi và bỏ qua mô hình phân tích vì dữ liệu đã được gửi đi theo quy trình.
+- B. Dùng FHIR cho trao đổi và OMOP cho phân tích, mỗi chuẩn đảm nhiệm một vai trò.
+- C. Dùng OMOP cho trao đổi thời gian thực và FHIR cho mọi phân tích dài hạn.
+- D. Dùng một chuẩn cho cả trao đổi lâm sàng và phân tích quần thể.
+- **Đáp án: B.** FHIR phục vụ trao đổi lâm sàng, còn OMOP phục vụ chuẩn hóa và phân tích quần thể.
 
 ---
