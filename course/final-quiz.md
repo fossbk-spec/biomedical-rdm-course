@@ -5,32 +5,28 @@
 - B. d → b → a → c → e, bắt đầu bằng thu thập trước khi hoàn thiện kế hoạch.
 - C. b → a → d → e → c, đặt chuẩn hóa sớm hơn thu thập dữ liệu.
 - D. a → b → d → e → c, đặt chuẩn hóa trước phần thiết kế.
-- **Đáp án: A.**
-- **Giải thích:** Workflow bắt đầu ở thiết kế và DMP, rồi thu thập, chuẩn hóa, FAIR/chia sẻ và kết thúc bằng lưu trữ hoặc hủy an toàn.
+- **Đáp án: A.** Workflow bắt đầu ở thiết kế và DMP, rồi thu thập, chuẩn hóa, FAIR/chia sẻ và kết thúc bằng lưu trữ hoặc hủy an toàn.
 
 **Q2.** Một nghiên cứu không viết DMP, thu thập xong mới nghĩ đến việc chia sẻ dữ liệu. Hậu quả nào có khả năng xảy ra nhất?
 - A. Có thể mất thêm thời gian, nhưng nhiều quyết định quản trị khác vẫn giữ nguyên.
 - B. Thiếu metadata và biến không thống nhất, làm khó phê duyệt chia sẻ.
 - C. Có ít hậu quả vì quyết định chia sẻ có thể đưa ra ở cuối nghiên cứu.
 - D. Dữ liệu tự động trở nên FAIR vì đã được thu thập đầy đủ trong nghiên cứu.
-- **Đáp án: B.**
-- **Giải thích:** Quyết định thượng nguồn bị bỏ qua có thể làm thiếu metadata, không nhất quán biến và hạn chế khả năng chia sẻ về sau.
+- **Đáp án: B.** Quyết định thượng nguồn bị bỏ qua có thể làm thiếu metadata, không nhất quán biến và hạn chế khả năng chia sẻ về sau.
 
 **Q3.** Bệnh viện A dùng FHIR để gửi dữ liệu cho bệnh viện B, rồi cả hai cùng phân tích trên OMOP CDM. Nhận định nào đúng?
 - A. Phải chuyển sang CDISC trước, dù mục tiêu là trao đổi rồi phân tích quan sát.
 - B. Dùng thừa chuẩn; một chuẩn thường đủ cho cả trao đổi và phân tích.
 - C. Đúng vai trò: FHIR để trao đổi, OMOP để phân tích.
 - D. FHIR và OMOP thường khó dùng chung trong một quy trình liên cơ sở.
-- **Đáp án: C.**
-- **Giải thích:** FHIR phục vụ trao đổi dữ liệu; OMOP phục vụ chuẩn hóa và phân tích dữ liệu quan sát.
+- **Đáp án: C.** FHIR phục vụ trao đổi dữ liệu; OMOP phục vụ chuẩn hóa và phân tích dữ liệu quan sát.
 
 **Q4.** Dữ liệu khuyết vì bệnh nhân nặng không lấy được mẫu xét nghiệm. Cách xử lý đúng nhất là gì?
 - A. Xóa toàn bộ bệnh nhân đó để bộ dữ liệu không còn ô khuyết.
 - B. Bỏ qua và không ghi lại nguyên nhân vì mẫu xét nghiệm chưa từng được lấy.
 - C. Điền giá trị trung bình cho nhiều bệnh nhân để giữ kích thước mẫu.
 - D. Xem xét MNAR, ghi giả định, chọn phương pháp và phân tích độ nhạy.
-- **Đáp án: D.**
-- **Giải thích:** Cơ chế khuyết có thể liên quan đến mức độ bệnh; cần ghi giả định, chọn phương pháp phù hợp và kiểm tra độ nhạy.
+- **Đáp án: D.** Cơ chế khuyết có thể liên quan đến mức độ bệnh; cần ghi giả định, chọn phương pháp phù hợp và kiểm tra độ nhạy.
 
 **Q5.** Khi xử lý dữ liệu cá nhân trong nghiên cứu, nguyên tắc nào phù hợp nhất?
 - A. Chủ yếu áp dụng văn bản có tại thời điểm viết đề cương, ít rà soát về sau.
@@ -44,8 +40,7 @@
 - B. Mỗi quasi-identifier xuất hiện ít nhất 5 lần; vẫn còn nguy cơ từ thông tin nền.
 - C. Không ai có thể tái định danh bằng bất kỳ cách nào, kể cả liên kết nguồn khác.
 - D. Dữ liệu được phép công khai mà không cần xét duyệt hoặc kiểm soát truy cập.
-- **Đáp án: B.**
-- **Giải thích:** k-anonymity giới hạn liên kết trực tiếp, nhưng không loại bỏ mọi nguy cơ tái định danh hoặc suy luận thuộc tính nhạy cảm.
+- **Đáp án: B.** k-anonymity giới hạn liên kết trực tiếp, nhưng không loại bỏ mọi nguy cơ tái định danh hoặc suy luận thuộc tính nhạy cảm.
 
 **Q7.** Nhận định nào mô tả đầy đủ hơn yêu cầu để dữ liệu y sinh sẵn sàng cho AI?
 - A. Dữ liệu cần lớn, sạch và ở định dạng bảng tính phổ biến để mô hình đọc được.

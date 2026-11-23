@@ -74,7 +74,7 @@
 - Tác giả: HL7 International.
 - Năm: 2023
 - Nguồn: Không có trường nguồn trong BibTeX. URL: https://hl7.org/fhir/
-- Trạng thái audit: `BIB_PENDING`
+- Trạng thái audit: `VERIFIED_UNAUDITED`
 
 <a id="ref-10"></a>
 ## [10] FHIR to OMOP Implementation Guide
@@ -154,7 +154,7 @@
 - Tác giả: CASRAI.
 - Năm: n.d.
 - Nguồn: Không có trường nguồn trong BibTeX. URL: https://casrai.org/guides/horizon-europe-fair-data-management-plan
-- Trạng thái audit: `BIB_PENDING`
+- Trạng thái audit: `VERIFIED_UNAUDITED`
 
 <a id="ref-20"></a>
 ## [20] Expert Advisory Group on Data Access. (2017, August)
@@ -202,7 +202,7 @@
 - Tác giả: CASRAI.
 - Năm: n.d.
 - Nguồn: Không có trường nguồn trong BibTeX. URL: https://casrai.org/guides/castor-edc-lightweight-edc-investigator-initiated-trials
-- Trạng thái audit: `BIB_PENDING`
+- Trạng thái audit: `VERIFIED_UNAUDITED`
 
 <a id="ref-26"></a>
 ## [26] A pragmatic method for transforming clinical research data from the research electronic data capture “REDCap” to Clinical Data Interchange Standards Consortium (CDISC) Study Data Tabulation Model (SDTM): Development and evaluation of REDCap2SDTM
@@ -274,7 +274,7 @@
 - Tác giả: CDISC, \& HL7 International.
 - Năm: 2021
 - Nguồn: Không có trường nguồn trong BibTeX. URL: https://www.cdisc.org/standards/real-world-data/fhir-cdisc-joint-mapping-implementation-guide-v1-0
-- Trạng thái audit: `BIB_PENDING`
+- Trạng thái audit: `VERIFIED_UNAUDITED`
 
 <a id="ref-35"></a>
 ## [35] Valueset-example-characteristic-codes
@@ -357,7 +357,7 @@
 - Trạng thái audit: `VERIFIED_UNAUDITED`
 
 <a id="ref-45"></a>
-## [45] Evaluating FAIR data maturity using the FAIR Data Maturity Model
+## [45] Evaluating FAIR maturity through a scalable, automated, community-governed framework
 
 - Tác giả: Wilkinson, M. D., Dumontier, M., Sansone, S.-A., Bonino da Silva Santos, L. O., Prieto, M., Batista, D., McQuilton, P., Kuhn, T., Rocca-Serra, P., Crosas, M., Schultes, E., \& …
 - Năm: 2019
@@ -370,7 +370,7 @@
 - Tác giả: UNESCO.
 - Năm: 2021
 - Nguồn: Không có trường nguồn trong BibTeX. URL: https://www.unesco.org/en/open-science/about
-- Trạng thái audit: `BIB_PENDING`
+- Trạng thái audit: `VERIFIED_UNAUDITED`
 
 <a id="ref-47"></a>
 ## [47] Data sharing statements for clinical trials: A requirement of the International Committee of Medical Journal Editors
@@ -602,7 +602,7 @@
 - Tác giả: CASRAI.
 - Năm: 2026
 - Nguồn: Không có trường nguồn trong BibTeX. URL: https://casrai.org/guides/trusted-research-environments-five-safes-framework
-- Trạng thái audit: `BIB_PENDING`
+- Trạng thái audit: `VERIFIED_UNAUDITED`
 
 <a id="ref-76"></a>
 ## [76] Die Datenintegrationszentren — Von der Konzeption in der Medizininformatik-Initiative zur lokalen Umsetzung in einem Netzwerk Universitätsmedizin [Data integration centers—From a concept in the Medical Informatics Initiative to its local implementation in the Network of University Medicine]
@@ -821,7 +821,7 @@
 - Trạng thái audit: `VERIFIED_UNAUDITED`
 
 <a id="ref-103"></a>
-## [103] Safety of hydroxychloroquine, alone and in combination with azithromycin, in light of rapid wide-spread use for COVID-19: A multinational, network cohort and self-controlled case series study
+## [103] Risk of hydroxychloroquine alone and in combination with azithromycin in the treatment of rheumatoid arthritis: a multinational, retrospective study
 
 - Tác giả: Lane, J. C. E., Weaver, J., Kostka, K., Duarte-Salles, T., Abrahao, M. T. F., Alghoul, H., Alser, O., Alshammari, T. M., Biedermann, P., Banda, J. M., Burn, E., Casajust, P., Conover, M. M., Culhane, A. C., Davydov, A., DuVall, S. L., Dymshyts, D., Fernandez-Bertolin, S., Fišter, K., … Prieto-Alhambra, D.
 - Năm: 2020
