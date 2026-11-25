@@ -12,24 +12,25 @@
 ## Workflow tổng thể — 7 giai đoạn cần nhớ
 
 ```
-1. Thiết kế & DMP → 2. Thu thập → 3. Làm sạch & kiểm tra
-→ 4. Chuẩn hóa (CDISC / FHIR / OMOP) → 5. Bảo mật & khử định danh
-→ 6. FAIR & AI-ready → 7. Kết thúc: lưu trữ / hủy an toàn
+1. Thiết kế & DMP → 2. Thu thập → 3. Xử lý & làm sạch
+→ 4. Chuẩn hóa (CDISC / FHIR / OMOP) → 5. Phân tích & tái lập
+→ 6. FAIR & chia sẻ → 7. Lưu trữ & hủy an toàn
 ```
 
-Quy tắc xuyên suốt: **quyết định càng sớm càng rẻ**. Một trường dữ liệu không định nghĩa ở bước 1 sẽ thành dữ liệu khuyết, không so sánh được, hoặc không dùng được cho AI ở bước 5–7. DMP không phải thủ tục hành chính — nó là bản hợp đồng về dữ liệu của cả nghiên cứu.
+Quy tắc xuyên suốt: **quyết định càng sớm càng rẻ**. Một trường dữ liệu không định nghĩa ở bước 1 sẽ thành dữ liệu khuyết, không so sánh được, hoặc không dùng được cho AI ở các giai đoạn sau. DMP không phải thủ tục hành chính — nó là bản hợp đồng về dữ liệu của cả nghiên cứu.
 
-**Lớp kiểm soát xuyên suốt:** bảo mật, đạo đức và pháp lý áp dụng ở mọi giai đoạn của vòng đời dữ liệu, từ lập kế hoạch đến lưu trữ hoặc tiêu hủy; đây không phải một bước chỉ làm ở cuối.
+**Bốn lớp ngang:** quản trị dữ liệu; bảo mật và quyền riêng tư; pháp lý và đạo đức; vai trò Data Steward. Cả bốn áp dụng ở mọi giai đoạn của vòng đời dữ liệu, từ lập kế hoạch đến lưu trữ hoặc tiêu hủy; đây không phải một bước chỉ làm ở cuối.
 
-| 7 bước của khóa học | 6 giai đoạn trong review §2.1 |
+| Giai đoạn / lớp ngang | Bài học trong khóa này |
 |---|---|
-| Thiết kế & DMP | Lập kế hoạch |
-| Thu thập | Thu thập |
-| Làm sạch & kiểm tra | Xử lý và chuẩn hóa |
-| Chuẩn hóa | Xử lý và chuẩn hóa |
-| Phân tích | Bước 3–4: làm sạch, kiểm tra và chuẩn hóa để phân tích |
-| Bảo mật & khử định danh | Áp dụng xuyên suốt |
-| FAIR & AI-ready | Chia sẻ, công bố và tái sử dụng |
-| Kết thúc: lưu trữ / hủy an toàn | Lưu trữ dài hạn hoặc tiêu hủy |
+| 1. Thiết kế & DMP | Bài 1 |
+| 2. Thu thập | Bài 2 |
+| 3. Xử lý & làm sạch | Bài 4 |
+| 4. Chuẩn hóa | Bài 3 |
+| 5. Phân tích & tái lập | Bài 4 (phần tái lập); chưa có bài riêng trong khóa này |
+| 6. FAIR & chia sẻ | Bài 5 |
+| 7. Lưu trữ & hủy an toàn | Bài 5 (kết thúc nghiên cứu) |
+| Lớp ngang: quản trị, Data Steward | Bài 1 |
+| Lớp ngang: bảo mật, pháp lý, đạo đức | Bài 6 |
 
 ---

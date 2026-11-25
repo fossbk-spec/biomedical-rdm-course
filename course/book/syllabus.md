@@ -47,10 +47,12 @@ Sau khi hoàn thành khóa học, người đọc có khả năng tự tin:
 Khóa học lấy xương sống là **Workflow Quản trị Dữ liệu Y sinh 7 giai đoạn**:
 
 ```
-1. Thiết kế & DMP → 2. Thu thập (ALCOA+/EDC) → 3. Làm sạch & Đánh giá chất lượng
-→ 4. Chuẩn hóa (CDISC / FHIR / OMOP) → 5. FAIR & Chia sẻ kho lưu trữ
-→ 6. Bảo mật & Pháp lý (Luật 91/2025/QH15) → 7. Kết thúc: Lưu trữ dài hạn & Hủy an toàn
+1. Thiết kế & DMP → 2. Thu thập (ALCOA+/EDC) → 3. Xử lý & làm sạch
+→ 4. Chuẩn hóa (CDISC / FHIR / OMOP) → 5. Phân tích & tái lập
+→ 6. FAIR & chia sẻ → 7. Lưu trữ & hủy an toàn
 ```
+
+Bốn lớp ngang áp dụng cho mọi giai đoạn: quản trị dữ liệu; bảo mật và quyền riêng tư; pháp lý và đạo đức (gồm Luật 91/2025/QH15); vai trò Data Steward.
 
 ### Danh mục Module Học tập
 
