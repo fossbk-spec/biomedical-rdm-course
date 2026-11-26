@@ -79,6 +79,8 @@ export default defineConfig({
       ] },
       { text: 'Tổng kết', items: [
         { text: 'Quiz tổng hợp', link: '/course/final-quiz' },
+        { text: 'Case study — DrMayDay', link: '/course/case-study-drmayday' },
+        { text: 'Capstone', link: '/course/capstone' },
         { text: 'Thuật ngữ', link: '/course/glossary' },
         { text: 'Lộ trình', link: '/ROADMAP' },
       ] },
