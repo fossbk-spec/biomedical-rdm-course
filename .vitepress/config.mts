@@ -49,7 +49,7 @@ export default defineConfig({
         { text: 'Chương 4 — Chất lượng và dữ liệu khuyết', link: '/course/book/ch04' },
         { text: 'Chương 5 — Bảo mật và khử định danh', link: '/course/book/ch05' },
         { text: 'Chương 6 — FAIR và AI-ready', link: '/course/book/ch06' },
-        { text: 'Chương 7 — Hoàn thành và capstone', link: '/course/book/ch07' },
+        { text: 'Chương 9 — Hoàn thành và capstone', link: '/course/book/ch09' },
       ] },
       { text: 'Phụ lục', items: [
         { text: 'Danh mục phụ lục', link: '/course/book/appendices/changelog' },

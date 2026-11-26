@@ -17,11 +17,12 @@
 - [CH04](ch04)
 - [CH05](ch05)
 - [CH06](ch06)
-- [CH07](ch07)
+- [CH09](ch09)
 
 ## Phụ lục
 
 - [changelog](/course/book/appendices/changelog)
+- [case-study-drmayday](/course/book/appendices/case-study-drmayday)
 - [fhir-omop-lab-notes](/course/book/appendices/fhir-omop-lab-notes)
 - [funder-templates](/course/book/appendices/funder-templates)
 - [legal](/course/book/appendices/legal)

@@ -26,8 +26,8 @@
 
 ## Các điểm KHÁC BIỆT hoặc chưa đủ bằng chứng
 
-- [55] Review nêu cụ thể các mức 30 năm và 20 năm; nguồn PDF chính thống đã xác nhận văn bản/hiệu lực nhưng lượt tra cứu này chưa trích được đúng dòng phụ lục tương ứng. Đây là điểm cần đọc lại, không được tự coi là đã xác nhận.
-- [62] Review nêu Cục A05 và hồ sơ đánh giá tác động; trang giới thiệu chính thức đã xác nhận 05 chương/39 điều nhưng chưa đủ để xác nhận từng chi tiết thủ tục đó.
+- [55] Review nêu cụ thể các mức 30 năm và 20 năm; nguồn PDF chính thống đã xác nhận văn bản/hiệu lực nhưng lượt tra cứu này chưa trích được đúng dòng phụ lục tương ứng. Đây là điểm cần đọc lại, không được tự coi là đã xác nhận. **Cập nhật 26/11/2026:** đã đọc các dòng STT 15, 39, 40, 44 của Phụ lục; xem mục "Đối chiếu bổ sung 26/11/2026" bên dưới.
+- [62] Review nêu Cục A05 và hồ sơ đánh giá tác động; trang giới thiệu chính thức đã xác nhận 05 chương/39 điều nhưng chưa đủ để xác nhận từng chi tiết thủ tục đó. **Cập nhật 26/11/2026:** đã đọc Điều 21–23 và 38–39 của văn bản gốc; thời hạn 60 ngày xác nhận, tên "A05" không có trong văn bản; xem mục bên dưới.
 - [64] Chưa có bản toàn văn chính thống trong lượt tra cứu; không xác nhận các diễn giải nội dung.
 - [66] Ngày hiệu lực 27/02/2026 khớp bản văn được lập chỉ mục và thông tin ngành, nhưng thiếu URL toàn văn chính thức của Bộ trong lượt tra cứu.
 - [82] Chưa có bản nguồn chính thức của quyết định; chỉ có thông báo triển khai của cơ quan nhà nước.
@@ -39,3 +39,26 @@ Tra cứu được thực hiện ngày 21/11/2026 bằng tìm kiếm web và m�
 ## Kiểm tra lại độc lập (21/11/2026)
 
 Sau khi hoàn tất bảng trên, hai chi tiết được tải lại và đối chiếu trực tiếp trên nguồn: [62] trang của Kiểm toán Nhà nước ghi "Luật số 91/2025/QH15 gồm 05 Chương, 39 Điều"; [65] bài của Cổng TTĐT Chính phủ ghi theo khoản 2 Điều 4 Thông tư 13/2025/TT-BYT, bệnh viện chậm nhất 30/9/2025, cơ sở khám chữa bệnh khác chậm nhất 31/12/2026. Cả hai khớp với thân bài. Các mục còn lại chưa được kiểm tra lại độc lập.
+
+## Đối chiếu bổ sung 26/11/2026 (phục vụ phụ lục `case-study-drmayday`)
+
+**Cách đọc:** tải bản PDF ký số từ Cổng TTĐT Chính phủ; Luật 91/2025 và Nghị định 356/2025 là bản quét không có lớp chữ nên được đọc bằng hình ảnh từng trang; Thông tư 33/2025 có lớp chữ nhưng lỗi mã hóa tiếng Việt nên cũng đọc bằng hình ảnh. Số trang là số in trên văn bản.
+
+| Văn bản | Điều khoản | Nội dung đã đọc | URL | Trạng thái |
+|---|---|---|---|---|
+| Luật 91/2025/QH15 | Điều 21 khoản 1 (tr. 12) | Bên kiểm soát dữ liệu cá nhân, bên kiểm soát và xử lý dữ liệu cá nhân lập, lưu trữ hồ sơ đánh giá tác động xử lý dữ liệu cá nhân và gửi 01 bản chính cho cơ quan chuyên trách bảo vệ dữ liệu cá nhân trong 60 ngày kể từ ngày đầu tiên xử lý dữ liệu cá nhân | https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/7/91qh.signed.pdf | XÁC NHẬN |
+| Luật 91/2025/QH15 | Điều 21 khoản 6 (tr. 13) | Cơ quan nhà nước có thẩm quyền không phải thực hiện quy định về đánh giá tác động. Việc bệnh viện công có thuộc "cơ quan nhà nước có thẩm quyền" hay không chưa được xác định ở đây; cần reviewer pháp lý | cùng URL | XÁC NHẬN văn bản; DIỄN GIẢI chưa xác định |
+| Luật 91/2025/QH15 | Điều 22, 23 (tr. 13) | Cập nhật hồ sơ định kỳ 06 tháng khi có thay đổi (hoặc ngay trong các trường hợp khoản 2); thông báo vi phạm cho cơ quan chuyên trách chậm nhất 72 giờ kể từ khi phát hiện, trong các trường hợp khoản 1 | cùng URL | XÁC NHẬN |
+| Luật 91/2025/QH15 | Điều 38, 39 (tr. 22–23) | Hiệu lực 01/01/2026; doanh nghiệp nhỏ/khởi nghiệp được chọn không thực hiện Điều 21, 22 trong 05 năm (có ngoại lệ); hoạt động xử lý và hồ sơ đánh giá tác động đã có theo Nghị định 13/2023 trước ngày hiệu lực tiếp tục được dùng | cùng URL | XÁC NHẬN |
+| Nghị định 356/2025/NĐ-CP | Điều 39 khoản 1 (tr. 35) | Cơ quan chuyên trách bảo vệ dữ liệu cá nhân là đơn vị trực thuộc Bộ Công an. Tên đơn vị (ví dụ "A05") không xuất hiện trong điều này | https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/356-nd.signed.pdf | XÁC NHẬN; tên "A05" CHƯA XÁC NHẬN |
+| Nghị định 356/2025/NĐ-CP | Điều 42 khoản 1–2 (tr. 36) | Hiệu lực 01/01/2026; Nghị định 13/2023/NĐ-CP hết hiệu lực kể từ ngày Nghị định này có hiệu lực | cùng URL | XÁC NHẬN |
+| Thông tư 33/2025/TT-BYT | Điều 1, 2 (tr. 1) | Phụ lục áp dụng cho tài liệu giấy, vật mang tin và điện tử; hồ sơ chưa nêu thì áp dụng mức tương đương, không thấp hơn Phụ lục; hiệu lực 01/07/2025; thay Thông tư 53/2017/TT-BYT; không áp dụng để xác định lại thời hạn đã xác định trước ngày hiệu lực | https://hue.gov.vn/Portals/0/Uploads/VBPL/Nam2025/Thang7/33-byt.pdf | XÁC NHẬN |
+| Thông tư 33/2025/TT-BYT | Phụ lục STT 15, 39, 40, 44 (tr. 2–4 của Phụ lục) | STT 15: SOP hoạt động thử nghiệm lâm sàng, 20 năm. STT 39: bệnh án tử vong, 30 năm. STT 40: bệnh án tâm thần/tai nạn lao động/tai nạn giao thông, 20 năm. STT 44: bệnh án nội trú, ngoại trú, 10 năm | Phụ lục đính kèm tại https://hcc.nghean.gov.vn/laws/detail/Thong-tu-so-33-2025-TT-BYT-cua-Bo-Y-te-Quy-dinh-thoi-han-luu-tru-ho-so-tai-lieu-nganh-y-te-1882/ (tệp "33-byt-kem.pdf", ký số Cổng TTĐT Chính phủ 16/07/2025) | XÁC NHẬN bốn dòng; các dòng khác CHƯA RÀ |
+| NIST SP 800-88 Rev. 2 | Trang CSRC | Công bố 09/2025, thay Rev. 1 (17/12/2014); ngày 26/09/2025 theo thông báo của NIST (qua kết quả tìm kiếm) | https://csrc.nist.gov/pubs/sp/800/88/r2/final | XÁC NHẬN MỘT PHẦN (chưa đọc văn bản) |
+
+**Chưa xác nhận được trong lượt này:**
+- Tên "A05" (Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao) là đơn vị nhận hồ sơ: không có trong Luật 91/2025 Điều 21 và Nghị định 356/2025 Điều 39 đã đọc. Các điều về hồ sơ đánh giá tác động trong Nghị định 356/2025 (Điều 20 và liên quan) chưa đọc.
+- Các điều của Luật 91/2025 về dữ liệu cá nhân nhạy cảm và dữ liệu sức khỏe chưa đọc.
+- TCVN 14423: tìm kiếm ngày 26/11 chỉ thấy tiêu chuẩn chung về an ninh mạng hệ thống thông tin (bản 2025; bản 2026 chỉ qua một trang thương mại); không thấy nguồn nào gắn tiêu chuẩn này với "y tế số". Chưa có số hiệu và phạm vi chính xác.
+- Zuberbier và cs. 2026 (*Allergy*, DOI 10.1111/all.70210) và bản 2022 (DOI 10.1111/all.15090): trang nhà xuất bản trả lỗi 403; chỉ đọc được bài tóm tắt thứ cấp (HCPLive, 06/02/2026) không nhắc montelukast. Không xác nhận nội dung về dupilumab, remibrutinib, montelukast ở mức bậc điều trị.
+- URL `vbpl.vn/.../VanBanGoc_663505.pdf` trả 404 và `vbpl.moj.gov.vn` không phân giải ngày 26/11/2026; không dùng làm nguồn đã đọc lại.

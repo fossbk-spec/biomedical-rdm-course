@@ -90,7 +90,7 @@
 - Tác giả: Sachson, C.
 - Năm: 2025
 - Nguồn: Observational Health Data Sciences and Informatics URL: https://www.ohdsi.org/wp-content/uploads/2025/10/OurJourney-2025.pdf
-- Trạng thái audit: `VERIFIED_UNAUDITED`
+- Trạng thái audit: `BIB_PENDING`
 
 <a id="ref-12"></a>
 ## [12] The FAIR Guiding Principles for scientific data management and stewardship
