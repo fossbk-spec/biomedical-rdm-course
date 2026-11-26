@@ -11,7 +11,7 @@ This repository is the web edition of the biomedical research data management co
 
 ## Course rules
 
-- The passing rule is at least 24/34 points and at least 2 of Q1–Q3 correct.
+- There is no passing rule: the course is free and self-paced. At least 24/34 points and at least 2 of Q1–Q3 correct is a self-assessment target, not a pass/fail condition; learners may retake quizzes without limit and no one records the result. (Ben, 21/11/2026.)
 - There are 34 questions in total. Module 0 has no quiz.
 - Preserve lesson and quiz content unless the task explicitly authorizes a content change.
 
